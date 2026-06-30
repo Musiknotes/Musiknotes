@@ -11,10 +11,20 @@
 I go my Note or Elyis! 
 <div align="center">
 
-<b>DNI</b>
-</div>
-People over 30
-Homophobic
-Racist
-Anti-"Blackwashing"
+<div align="center">
+
+<h2><b>DNI</b></h2>
+
+People over 30<br>
+Homophobic<br>
+Racist<br>
+Anti-"Blackwashing"<br>
 Other than that, I block freely!
+
+<br><br>
+
+<h2><b>Won't Add</b></h2>
+
+People UNDER 16
+
+</div>
