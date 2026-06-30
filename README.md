@@ -21,14 +21,8 @@ Racist<br>
 Anti-"Blackwashing"<br>
 Other than that, I block freely!
 
-<br><br>
-
-<div align="center">
-
 $$\color{#8BCF2A}{𝗪𝗶𝗹𝗹 𝗡𝗼𝘁 𝗔𝗱𝗱!}$$
 
-</div>
-
 <div align="center">
-People under 16!
+People under 16
 </div>
