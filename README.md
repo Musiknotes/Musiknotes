@@ -23,8 +23,12 @@ Other than that, I block freely!
 
 <br><br>
 
-$$\color{#8BCF2A}{𝗪𝗼𝗻𝘁 𝗔𝗱𝗱!}$$
+<div align="center">
 
-People UNDER 16! No hard feelings, I'm just not comfortable with that!
+$$\color{#8BCF2A}{𝗪𝗼𝗻'𝘁 𝗔𝗱𝗱!}$$
 
+</div>
+
+<div align="center">
+People under 16!
 </div>
