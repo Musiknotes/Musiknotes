@@ -6,10 +6,13 @@
 
 <div style="height:900px;"></div>
 
-# Hello!
-
-I go my Note or Elyis! 
 <div align="center">
+
+$$\color{#8BCF2A}{𝗛𝗲𝗹𝗹𝗼!}$$
+
+I go by **Note** or **Elyis**!
+
+</div>
 
 <div align="center">
 
@@ -19,10 +22,12 @@ People over 30<br>
 Homophobic<br>
 Racist<br>
 Anti-"Blackwashing"<br>
+TCC fans<br>
 Other than that, I block freely!
 
 $$\color{#8BCF2A}{𝗪𝗶𝗹𝗹.𝗡𝗼𝘁.𝗔𝗱𝗱!}$$
 
 <div align="center">
 People under 16
+  
 </div>
