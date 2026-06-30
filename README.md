@@ -25,7 +25,7 @@ Other than that, I block freely!
 
 <div align="center">
 
-$$\color{#8BCF2A}{𝗪𝗼𝗻'𝘁 𝗔𝗱𝗱!}$$
+$$\color{#8BCF2A}{𝗪𝗶𝗹𝗹 𝗡𝗼𝘁 𝗔𝗱𝗱!}$$
 
 </div>
 
