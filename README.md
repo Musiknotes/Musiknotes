@@ -12,9 +12,9 @@ I go my Note or Elyis!
 <div align="center">
 
 <b>DNI</b>
+</div>
 People over 30
 Homophobic
 Racist
 Anti-"Blackwashing"
 Other than that, I block freely!
-</div>
