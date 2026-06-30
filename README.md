@@ -13,7 +13,7 @@ I go my Note or Elyis!
 
 <div align="center">
 
-$${\color{#8BCF2A}\mathbf{DNI!}}$$
+$$\color{#8BCF2A}{\mathbf{DNI}}$$
 
 People over 30<br>
 Homophobic<br>
@@ -24,7 +24,6 @@ Other than that, I block freely!
 <br><br>
 
 $${\color{#8BCF2A}\mathbf{Won't add!}}$$
-
 People UNDER 16
 
 </div>
