@@ -23,7 +23,7 @@ Other than that, I block freely!
 
 <br><br>
 
-$${\color{#8BCF2A}\mathbf{Won't add!}}$$
-People UNDER 16
+$$\color{#8BCF2A}{𝗪𝗼𝗻'𝘁 𝗔𝗱𝗱!}$$
+People UNDER 16! No hard feelings, I'm just not comfortable with that!
 
 </div>
