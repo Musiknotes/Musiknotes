@@ -13,7 +13,7 @@ I go my Note or Elyis!
 
 <div align="center">
 
-<h2><b>DNI</b></h2>
+$${\color{green}\text{DNI}}$$
 
 People over 30<br>
 Homophobic<br>
